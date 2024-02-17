@@ -1,0 +1,15 @@
+//s1.append(s2)
+	//s1.clear()
+	//s1.empty()-> true/false
+	//s1.erase(stindex, howmany)
+	//s1.find("substr") -->index
+	//s1.insert(ind,"substr")
+	//s1.size()-s1.length()
+	//s1.substr(ind, len)
+	//stoi(str)-> to int
+	//to_string(int)
+	//reverse(s.begin(), s.end());
+	//sort(s1.begin(), s1.end())
+	//transform(s.begin(), s.end(), s.begin(), ::toupper)
+	//sort(s1.begin(), s1.end(), greater<int>())->max to min str
+	cout<<s1+" "+s2;
